@@ -1,4 +1,13 @@
 ## Hi there 👋
+\
+I don't play Rust but I like rust.
+
+I don't carry cargo but I have it anyway.
+
+What am I?
+[Click here to find out!][result]
+
+[result]: https://www.example.com/
 
 <!--
 **ReviveSong/ReviveSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
